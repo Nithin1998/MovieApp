@@ -1,0 +1,17 @@
+
+
+.single-movie-container {
+    color:black;
+    width:40%;
+    margin:auto;
+    margin-top:120px;
+    background-color: #eee;
+}
+.single-movie-desc{
+    padding:10px;
+}
+.single-movie-container h3{
+        padding:10px;
+        font-size:2rem;
+        text-align: center;
+}

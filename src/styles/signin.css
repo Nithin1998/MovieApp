@@ -1,0 +1,24 @@
+.auth{
+    width:50%;
+    margin:auto;
+    margin-top:100px;
+}
+.logo {
+    width:100px; 
+    height: auto;
+    margin-bottom:3rem;
+}
+
+.auth-link{
+  width:70%;
+  margin:auto;
+  margin-top:20px;
+  background-color: rgb(28, 51, 60);
+  padding:15px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.auth-link a{
+    color:white;
+}
+    

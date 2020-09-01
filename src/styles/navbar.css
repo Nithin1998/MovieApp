@@ -1,0 +1,28 @@
+.nav-bar{
+    margin:0;
+    display:flex;
+    flex-direction: row;
+    background-color: #232530;
+}
+ul{
+    padding:10px;
+}
+input{
+    width:20%;
+}
+li{
+    color:white;
+    list-style-type: none;
+}
+.a{
+    text-decoration: none;
+    color:white;
+    font-family: Helvetica;
+    padding:10px;
+    margin-left:15px;
+
+    font-size:1.2rem;
+}
+a:hover{
+    color:rgb(201, 181, 181);
+}

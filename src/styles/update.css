@@ -1,0 +1,31 @@
+.update-form{
+    width:50%;
+    margin:auto;
+    display:flex;
+    flex-direction: column;
+    margin-top:100px;
+}
+
+
+.update-form input{
+    width:60%;
+    padding:10px;
+    margin:auto;
+    margin-top:15px;
+}
+.update-form button{
+    width:20%;
+    margin:auto;
+    margin-top:10px;
+    background-color: rgb(9, 35, 46);
+    padding: 10px;
+    cursor: pointer;
+    color:white;
+}
+label{
+    width:65%;
+    font-size: 1.5rem;
+    margin:auto;
+    margin-top:15px;
+}
+
